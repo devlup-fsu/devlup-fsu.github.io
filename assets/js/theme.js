@@ -9,17 +9,17 @@ Object.entries = (object) => Object.keys(object).map(
 const isObject = (obj) => obj === Object(obj)
 
 const LightTheme = {
-  '--bg-color': '#eee',
-  '--text-color': '#484848',
-  '--text-color-light': '#828282',
-  '--link-color': '#000',
-  '--metadata-color': '#999',
-  '--post-title': '#313131',
-  '--code-bg-color': '#fff',
-  '--code-border': '#f5f5f5',
+  '--bg-color': '#782f40',
+  '--text-color': '#ceb888',
+  '--text-color-light': '#ceb888',
+  '--link-color': '#ceb888',
+  '--metadata-color': '#ceb888',
+  '--post-title': '#ceb888',
+  '--code-bg-color': '#1c090e',
+  '--code-border': '#5e2532',
   '--table-border-color': '#e5e5e5',
   '--table-header-color': '#fefefe',
-  '--shadow-color': 'rgba(0, 0, 0, 0.1)',
+  '--shadow-color': 'rgba(206, 184, 136, 0.5)',
   '--invert-logo-color': 'invert(0)',
   themeName: 'LightTheme'
 }
@@ -36,7 +36,7 @@ const NightTheme = {
   '--table-border-color': '#292929',
   '--table-header-color': '#505050',
   '--shadow-color': 'rgba(255, 255, 255, 0.1)',
-  '--invert-logo-color': 'invert(1)',
+  '--invert-logo-color': 'invert(0)',
   themeName: 'NightTheme'
 }
 
