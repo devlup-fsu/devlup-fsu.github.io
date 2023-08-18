@@ -14,7 +14,7 @@ blog:
                                Join our Discord server to keep up to date with our meetings and events!
 
 # Layout configuration
-  logo_path                  : "assets/img/devlup_small_spin_transparent.gif" # path to logo file
+  logo_path                  : "assets/img/DevlupLogo.svg" # path to logo file
   search_path                : # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
