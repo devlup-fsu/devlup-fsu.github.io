@@ -33,10 +33,10 @@
 // Hero hover dummy class, used only in blog layout
 .hero-hov {
     background: transparent;
-    transition: background .25s ease;
+    transition: -webkit-filter .25s ease;
 
     &:hover {
-        background: rgba(0,0,0,.5);
+      -webkit-filter: brightness(1.1);
     }
 }
 
