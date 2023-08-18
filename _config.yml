@@ -9,6 +9,9 @@ blog:
   description                  : >
                                The official site for FSU's best and favorite (only)
                                game development club!
+  homepagetext                 : >
+                               Welcome to site for DevLUp FSU! Below are materials and notes from our meetings, as well as any updates we've posted on the state of our club!
+                               Join our Discord server to keep up to date with our meetings and events!
 
 # Layout configuration
   logo_path                  : "assets/img/devlup_small_spin_transparent.gif" # path to logo file
@@ -32,7 +35,9 @@ author:
   mail                      : fsu.gamedev.club@gmail.com
   github                    : devlup-fsu
   youtube                   : "@DevLUpFSU"
-  discordserver                   : "@DevLUpFSU"
+
+# add this at some point
+#  discordserver            : "@DevLUpFSU" 
 
 
 

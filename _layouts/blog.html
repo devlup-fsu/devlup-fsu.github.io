@@ -3,6 +3,9 @@ layout: default
 title: "Blog"
 ---
 
+<p>{{ site.blog.homepagetext }}</p>
+<hr>
+
 {% for post in paginator.posts %}
 
 {% include blog.html %}
