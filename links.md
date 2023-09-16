@@ -1,6 +1,6 @@
 ---
 layout: links
-title: links!
+title: 🔗links🔗
 permalink: /links
 published: true
 ---
@@ -20,22 +20,19 @@ published: true
 <style>
 .l- {
     position: relative;
-    text-align: center;
+    border-style: solid;
 }
 .l-Tile {
+    clip-path: inset(0% 0% 0% 0% round 10px);
+    background-color: #451b24;
     position: relative;
     text-align: center;
     display: block;
-    margin: 2rem;
     width: 100%;
-    height: 5rem;
-    clip-path: inset(0% 0% 0% 0% round 10px);
-    opacity: 0.5;
-    border-style: solid;
+    opacity: 1;
     transition: scale 0.2s, opacity 0.2s;
 }
 .l-Tile:hover {
-    z-index: 1000;
     box-shadow: 1000px 10px;
     scale: 1.05;
     opacity: 1;
@@ -47,7 +44,7 @@ published: true
 }
 .icon {
     border-style: none;
-    position: absolute;
+    position: relative;
     top: 12px;
     left: 18px;
 }
@@ -57,6 +54,13 @@ a.fill-div {
     width: 100%;
     text-decoration: none;
 }
+
+@media (max-width: 770px) {
+    .logo {
+      margin-bottom: 10rem;
+    }
+}
+
 </style>
 
 <header>
@@ -70,11 +74,12 @@ a.fill-div {
 </div>
 </header>
 
+<h2 style="text-align: center;">links will open in a new tab: </h2>
+
 <div class="l-">
     <div class="l-Tile">
         <a href="https://discord.gg/VY5WnDRne7" class="fill-div" target="_blank">
             <h1 class="l-Tile-label">Discord </h1>
-
         </a>
     </div>
 </div>
