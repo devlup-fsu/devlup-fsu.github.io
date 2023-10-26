@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /signin
 published: true
-redirect_to: https://forms.gle/3yf1zy6ma7N2bhe59
+redirect_to: https://forms.gle/2DDHtACw5mE2NXHo6
 ---
 
 redirecting...
