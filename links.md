@@ -84,6 +84,15 @@ a.fill-div {
     </div>
 </div>
 
+
+<div class="l-">
+    <div class="l-Tile">
+        <a href="https://www.instagram.com/fsu.devlup/" class="fill-div" target="_blank">
+            <h1 class="l-Tile-label">Instagram </h1>
+        </a>
+    </div>
+</div>
+
 <div class="l-">
     <div class="l-Tile">
         <a href="https://nolecentral.dsa.fsu.edu/organization/devlup" class="fill-div" target="_blank">
