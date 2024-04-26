@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Sky Is Falling"
+title:  "Club Pangolin"
 tags:
   - spring2024
   - project
@@ -11,10 +11,10 @@ published: true
 
 ---
 
-# The Sky Is Falling
+# Club Pangolin
 
 This is copy about the game
 
 ## Related Workshops:
 
-["Spring 24 GBM #2 - Your First 3D Game"](https://fsu.devlup.org/posts/gbm-2-s24)
+["Spring 24 GBM #7 - Intro to Networking"](https://fsu.devlup.org/posts/gbm-7-s24)

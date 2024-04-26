@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "The Sky Is Falling"
+title:  "Toasty Time"
 tags:
   - spring2024
   - project
-  - gbm
+  - gamejam
 hero: https://raw.githubusercontent.com/devlup-fsu/devlup-fsu.github.io/master/assets/img/welcome/hero.png
 overlay: none
 published: true
 
 ---
 
-# The Sky Is Falling
+# Toasty Time
 
 This is copy about the game
 
 ## Related Workshops:
 
-["Spring 24 GBM #2 - Your First 3D Game"](https://fsu.devlup.org/posts/gbm-2-s24)
+["Fall 23 GBM #10 - Preparing for War"](https://fsu.devlup.org/posts/gbm-10-f23)

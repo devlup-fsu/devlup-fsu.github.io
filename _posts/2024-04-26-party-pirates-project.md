@@ -1,20 +1,21 @@
 ---
 layout: post
-title:  "The Sky Is Falling"
+title:  "Party Pirates"
 tags:
+  - fall2023
   - spring2024
   - project
-  - gbm
 hero: https://raw.githubusercontent.com/devlup-fsu/devlup-fsu.github.io/master/assets/img/welcome/hero.png
 overlay: none
 published: true
 
 ---
 
-# The Sky Is Falling
+# Party Pirates
 
 This is copy about the game
 
 ## Related Workshops:
 
-["Spring 24 GBM #2 - Your First 3D Game"](https://fsu.devlup.org/posts/gbm-2-s24)
+["Fall 23 GBM #7 - Semester Project Dev"](https://fsu.devlup.org/posts/gbm-7-f23)
+["Spring 24 GBM #5 - Party Pirates Dev Day"](https://fsu.devlup.org/posts/gbm-5-s24)
