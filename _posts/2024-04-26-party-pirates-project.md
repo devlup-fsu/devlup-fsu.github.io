@@ -11,9 +11,9 @@ published: true
 
 ---
 
-# Party Pirates
+# About Party Pirates
 
-This is copy about the game
+“Party Pirates” is a local multiplayer party game where players compete for loot in an arena. This game was co-developed by all of DevLUp FSU, as this year’s collaborative project. All of the source code and assets are public on Github!
 
 ## Related Workshops:
 

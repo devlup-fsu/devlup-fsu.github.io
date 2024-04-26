@@ -11,7 +11,7 @@ published: true
 
 ---
 
-# Toasty Time
+# About Toasty Time
 
 This is copy about the game
 

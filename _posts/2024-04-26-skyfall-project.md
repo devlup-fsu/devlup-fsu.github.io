@@ -11,9 +11,9 @@ published: true
 
 ---
 
-# The Sky Is Falling
+# About The Sky Is Falling
 
-This is copy about the game
+“The Sky is Falling” is a 3D Arcade style platforming game inspired by the characters and world of the movie “Chicken Little”. The player dodges items thrown at them from a UFO to survive as long as possible until they are knocked out and abducted! This game was made over three workshops to teach 3D development, art, and animation.
 
 ## Related Workshops:
 

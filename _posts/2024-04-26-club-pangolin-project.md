@@ -11,9 +11,9 @@ published: true
 
 ---
 
-# Club Pangolin
+# About Club Pangolin
 
-This is copy about the game
+"Club Pangolin" is a network based game where people join a host computer with cute little pangolin avatars and can both chat and emote to each other from different computers. We used it to showcase the basics of networking in Godot. (Obviously inspired by Club Penguin) 
 
 ## Related Workshops:
 

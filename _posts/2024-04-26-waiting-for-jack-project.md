@@ -11,9 +11,9 @@ published: true
 
 ---
 
-# Waiting for Jack
+# About Waiting for Jack
 
-This is copy about the game
+“Waiting For Jack” is a story-driven game about love and grief made for Joint Jam ‘24. Players help “The Bus Driver” get those waiting in the in between of life and what comes after to move on. The environment is a direct reference to the painting “Nighthawks” by Edward Hopper.
 
 ## Related Workshops:
 
