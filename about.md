@@ -26,13 +26,13 @@ We're a small, but passionate group of students at Florida State University with
 
 Members frequently share what they're working on on our [Discord server](https://discord.gg/VY5WnDRne7) - either personal projects, part of their degree, or their portfolio of work they're using to break into the games industry (wish them luck)!
 
-We hold meetings every Thursday in the Love building! Once again, join our Discord (see icons above) to be notified when meetings take place!
+We hold meetings every Thursday in the Innovation Hub! Once again, join our Discord (see icons above) to be notified when meetings take place!
 
 ## What's "DevLUp"?
 
 Previously known as the UF Game Developer's Association (UF GDA), DevLUp is a non-profit student organization that works to bring game development to schools across Florida.
 
-We're what's called a "branch" of DevLUp, and they've given us permission to use their name, tools, and network of industry professionals and talented students to help our organization succeed! ...in exchange for a blood sacrifice of one FSU student per year! We're overdue on that, so please, *please* come to meetings...
+We're what's called a "branch" of DevLUp, and they've given us permission to use their name, tools, and network of industry professionals and talented students to help our organization succeed! 
 
 [They have a super cool site with a live feed of work members have posted across every branch's Discord that you can visit here!](https://devlup.org)
 
@@ -42,16 +42,20 @@ DevLUp FSU is a non-profit organization dedicated to programming and the arts as
 
 ## Our current board is:
 
-**President:** Alec Tremblay
+**President:** Dion Tryban
 
-**Vice President:** Dion Tryban
+**Vice President:** Jake Younan 
 
-**Treasurer:** Skylar Scorca
+**Treasurer:** Emma Berry
 
-**Secretary:** Michael Ridgeway
+**Secretary:** Chris Swezy
 
-**Promoting Chair:** Chris Swezy
+**Secretary:** Whalen
 
-and tim sweeney on drums
+**Marketing Chair:** Jordan Freyman
+
+**Creative Chair:** Ares 
+
+**Promoting Chair:** Parker Dennison
 
 </div>
