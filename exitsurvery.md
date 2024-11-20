@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /exit
 published: true
-redirect_to: https://forms.gle/YccxtaSqHvhU8N326
+redirect_to: https://forms.gle/j5y17aFw7kZwgV457
 ---
 
 redirecting...
